@@ -28,7 +28,7 @@ Firmado por Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward C
 
 - Scrum
 - Programación Extrema (XP)
-- Crystal Methodologies
+- KANBAN
 
 &nbsp;
 
@@ -38,10 +38,21 @@ Se caracteriza por ser la *metodología del caos* que se basa en una estructura 
 
 ## 2.- Programación Extrema (XP)
 Esta metodología ágil tiene como objetivo el potenciar al máximo las relaciones interpersonales del equipo de trabajo para así garantizar el éxito durante el desarrollo del software. XP se interesa en la colaboración de las personas, que exista una nutritiva interacción entre el cliente y los desarrolladores.
+![Mi Imágen](/archivos/individual/actividad-01/XP.jpg)
 
+## 3.- KANBAN
+<div style="text-align: justify">
+Kanban es una palabra japonesa que responde al significado “tarjetas visuales". Es conocida también como “sistema de tarjetas”, pues hace uso de estas para que la empresa y sus empleados puedan tener consciencia sobre los procesos que se están llevando a cabo dentro de la compañía y puedan regular su flujo, es decir, limitan el trabajo en curso para que se haga de forma más productiva: si no se ha terminado una tarea, no se debe empezar otra.
+</div>
+![Mi Imágen](/archivos/individual/actividad-01/kanban.jpg)
+
+## Ejemplos
+ZARA, FACEBOOK, APPLE y PAYPAL son algunas de las grandes empresas que realizan metodologías ágiles, entre ellas útilizan la metodología **SCRUM**, dividiendo los trabajos y haciendo más efectivo el proyecto; Por su parte Zara usa un método que denominan **postponemen**, que en pocas palabras es realizar productos a la baja y si solo si la deman es alta fabricar y enviar express estos bienes.
 
 &nbsp;
 ## Referencias
 - *Villán, V. R. (2021, 25 mayo). Qué son las metodologías ágiles y cuáles son sus ventajas empresariales. Thinking for Innovation. https://www.iebschool.com/blog/que-son-metodologias-agiles-agile-scrum/*
 
 - *Fernández, J. (2000). Introducción a las metodologías ágiles (7.a ed., Vol. 2). Editorial UOC.*
+
+- *Rojas, V. L. (2021, 26 julio). ¿Cuáles son las metodologías ágiles y por qué son beneficiosas para tu empresa? Tentulogo. https://tentulogo.com/cuales-son-las-metodologias-agiles-y-por-que-son-beneficiosas-para-tu-empresa/*

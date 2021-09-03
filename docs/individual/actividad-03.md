@@ -58,6 +58,9 @@ Los diagramas de Gantt siguen siendo un importante instrumento de gestión de pr
 &nbsp;
 El ejemplo anterior es sobre la remodelación de una casa, iniciando con una duración de 12 semanas donde se reparten 10 tareas (una sujeta a un posible cambio siempre y cuando los pintores se contraten en tiempo). Pero en general se observa la planificación de estas actividades y la duración que cada una tendra, en el caso de la demolición se espera que dure6 días entre la semana 1 y 2. 
 
+**A continuación se adjunta el link para visualizar la imagen del ejemplo de un diagrama de Gannt en ProjectLibre**
+
+[Ejemplo ProjecLibre](http://127.0.0.1:8001/individual/Ejemplo3/#ejemplo-uso-de-projectlibre "Ejemplo de diagrama de Gannt")
 
 &nbsp;
 

@@ -8,7 +8,7 @@
 <div style="text-align: justify"> Las metodologías ágiles son aquellas que permiten adaptar la forma de trabajo a las condiciones del proyecto, consiguiendo flexibilidad e inmediatez en la respuesta para amoldar el proyecto y su desarrollo a las circunstancias específicas del entorno. En esencia, las empresas que apuestan por esta metodología consiguen gestionar sus proyectos de forma flexible, autónoma y eficaz reduciendo los costes e incrementando su productividad. 
 </div>
 
-&nbsp;
+
 <div style="text-align: justify"> 
 En el "Manifiesto ágil" se definen los cuatro valores por las que se deberían
 guiar las metdologías ágiles: </div>

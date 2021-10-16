@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recetas>
+<receta1>
+    <nombre>Cereal con leche </nombre>
+    <ingredientes> 
+        <ingrediente1 cantidad = "250 ml"> Leche </ingrediente1>
+        <ingrediente2> Cereal </ingrediente2>
+    </ingredientes>
+
+</receta1>
+<receta2>
+    <nombre>Sándwich </nombre>
+    <ingredientes> 
+        <ingrediente1 cantidad = "2 rebanadas"> Jamón </ingrediente1>
+        <ingrediente2 cantidad = "1 rebanada"> Quesito blanco </ingrediente2>
+        <ingrediente3 cantidad = "2"> Pan bimbo c: </ingrediente3>
+    </ingredientes>
+</receta2>
+</recetas>

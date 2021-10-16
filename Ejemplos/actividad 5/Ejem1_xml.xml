@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Curso>
+<titulo>
+    Introducción a XML
+</titulo>
+
+<autores>
+    <Autor nombre = "Fernando Zavala ELizondo"></Autor>
+</autores>
+
+<unidad titulo = "XML">
+<lecciones>
+    <leccion titulo= "1. Historia de XML"> 
+        El XML proviene de un lenguaje que inventó IBM allá por los años 70...
+    </leccion>
+</lecciones>
+</unidad>
+</Curso>

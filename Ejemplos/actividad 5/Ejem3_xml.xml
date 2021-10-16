@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Calificaciones>
+ <alumno1>
+ <nombre> Fernando Zavala</nombre>    
+ <materia Mat1 = "Matemáticas"> Prom: 9> </materia>
+ <materia Mat2 = "Español"> Prom: 8 </materia>
+ <materia Mat3 = "EDU Física"> Prom: 10</materia>
+ </alumno1>
+<alumno2>
+    <nombre> Miriam Elizondo</nombre>    
+    <materia Mat1 = "Matemáticas"> Prom: 7.5> </materia>
+    <materia Mat2 = "Español"> Prom: 6 </materia>
+    <materia Mat3 = "EDU Física"> Prom: 10</materia>
+       
+</alumno2>
+
+</Calificaciones>
